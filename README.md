@@ -9,3 +9,8 @@
 
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko01.gif)
 
+### Long distance results
+
+
+#### 1m
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/distance1m.gif)
