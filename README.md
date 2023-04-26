@@ -6,10 +6,10 @@
 #### Typing text
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
 
-#### Typing address
+#### Typing text
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
 
-#### Typing text
+#### Typing address
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko01.gif)
 
 ## Long distance keystroke localization results
