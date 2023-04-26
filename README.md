@@ -13,4 +13,5 @@
 
 
 #### 1m
-![1m attack results](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/distance1m.gif)
+![1m attack results](https://github.com/auditoryeye/auditoryeyesight/blob/main/longdistance_results/distance1m.PNG)
+
