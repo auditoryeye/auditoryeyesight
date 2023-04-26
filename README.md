@@ -3,13 +3,13 @@
 
 ## User Study
 
-Typing text
+####Typing text
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
 
-Typing text
+####Typing text
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
 
-Typing address
+####Typing address
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko01.gif)
 
 ## Long distance keystroke localization results
