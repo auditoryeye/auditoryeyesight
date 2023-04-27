@@ -8,6 +8,7 @@
 
 #### Typing text
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko01.gif)
 
 #### Typing addresses
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko01.gif)
