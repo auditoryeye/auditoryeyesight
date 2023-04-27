@@ -12,6 +12,10 @@
 #### Typing addresses
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko02.gif)
 
+
+#### Typing GPS coordinates
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/gps.gif)
+
 ## Long distance keystroke localization results
 
 
