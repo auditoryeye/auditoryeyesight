@@ -6,6 +6,7 @@
 #### Typing real-world texts (with punctuation, numbers, capital letters, typos)
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jnhco.gif)
 
 
 #### Typing addresses
