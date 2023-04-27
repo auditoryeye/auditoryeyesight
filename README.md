@@ -5,10 +5,8 @@
 ### All experiments allow fast typing and key combinations.
 #### Typing text
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
-
-#### Typing text
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
-![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko01.gif)
+
 
 #### Typing addresses
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko01.gif)
