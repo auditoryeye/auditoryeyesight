@@ -16,7 +16,7 @@ KeyRecord_M = readcell(KeysGroundTruthPath, 'Delimiter',' ');
 
 keys_total = length(KeyRecord_M(:,1));
 
-%% 2. 
+%% 2.
 % read each keystroke. 
 % computer tdoas
 % write tdoas to files
