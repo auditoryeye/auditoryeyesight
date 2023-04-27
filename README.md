@@ -35,7 +35,7 @@
 ## Benchmark Results
 
 ### User364
+[Ground Truth](https://github.com/auditoryeye/auditoryeyesight/blob/main/dataset/workspace_user364/keys_groundtruth.txt)
 [Ground Truth / Recovery of 2910 Keystrokes](https://github.com/auditoryeye/auditoryeyesight/blob/main/dataset/workspace_user364/result/keys_tdoa4_results.txt)
 
-[Ground Truth](https://github.com/auditoryeye/auditoryeyesight/blob/main/dataset/workspace_user364/keys_groundtruth.txt)
 
