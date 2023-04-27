@@ -10,7 +10,7 @@
 
 
 #### Typing addresses
-![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko01.gif)
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko02.gif)
 
 ## Long distance keystroke localization results
 
