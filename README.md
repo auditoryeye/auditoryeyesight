@@ -16,6 +16,8 @@
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jpl9m_gps.gif)
 
 
+#### Typing passwords
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jpnlf_pass.gif)
 
 ## Long distance keystroke localization results
 
