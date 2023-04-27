@@ -1,4 +1,4 @@
-# Sample Code (in progress)
+# Sample Codes (in progress)
 
 ### I-Round
 
