@@ -3,7 +3,7 @@
 
 ## User Study 
 ### All experiments allow fast typing and key combinations.
-#### Typing text
+#### Typing real-world texts (with punctuation, numbers, capital letters, typos)
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
 
