@@ -16,6 +16,9 @@
 #### Typing GPS coordinates
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/gps.gif)
 
+<img src="https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/gps.gif" width="250" height="250"/>
+
+
 ## Long distance keystroke localization results
 
 
