@@ -1,4 +1,4 @@
-# Data, software, and benchmark results (in progress)
+# Data, Software, and Benchmark Results (in progress)
 
 
 ## User Study 
