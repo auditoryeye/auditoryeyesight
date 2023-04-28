@@ -48,8 +48,8 @@
 ## Benchmark Results
 
 ### User597
-[Ground Truth of 2910 Keystrokes](https://github.com/auditoryeye/auditoryeyesight/blob/main/dataset/workspace_user597/keys_groundtruth.txt)
+[Ground Truth of 2402 Keystrokes](https://github.com/auditoryeye/auditoryeyesight/blob/main/dataset/workspace_user597/keys_groundtruth.txt)
 
-[Ground Truth / Recovery of 2910 Keystrokes](https://github.com/auditoryeye/auditoryeyesight/blob/main/dataset/workspace_user597/result/keys_tdoa4_results.txt)
+[Ground Truth / Recovery of 2402 Keystrokes](https://github.com/auditoryeye/auditoryeyesight/blob/main/dataset/workspace_user597/result/keys_tdoa4_results.txt)
 
 
