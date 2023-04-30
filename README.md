@@ -16,7 +16,7 @@
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jpl9m_gps.gif)
 
 #### Typing dates
-![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/Sequence2_dates_7jzzc9.gif)
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/Sequence2_dates_7jzzfp.gif)
 
 #### Typing passwords
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jpnlf_pass.gif)
