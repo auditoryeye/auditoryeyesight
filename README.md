@@ -2,7 +2,6 @@
 
 
 ## User Study Illustration
-### All experiments allow fast typing and key combinations.
 
 #### Typing addresses
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko02.gif)
