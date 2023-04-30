@@ -1,4 +1,4 @@
-# Data, Software, Illustration, and Benchmark Results (in progress)
+# Data, Software, and Benchmark Results (in progress)
 
 
 ## User Study Illustration
