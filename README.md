@@ -36,7 +36,7 @@
 
 
 ## Software
-### Test Case
+### Test
 
 [Multi-Round Code](https://github.com/auditoryeye/auditoryeyesight/tree/main/dataset/samplecodes)
 
