@@ -18,8 +18,8 @@
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jpnlf_pass.gif)
 
 #### Typing real-world texts (with punctuation, numbers, capital letters, typos)
-![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
 <img src="https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jnhco.gif" width="100" height="177"/>
 
 ## Long distance keystroke localization results
