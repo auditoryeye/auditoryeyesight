@@ -1,7 +1,7 @@
-# Data, Software, and Benchmark Results (in progress)
+# Data, Software, Illustration, and Benchmark Results (in progress)
 
 
-## User Study 
+## User Study Illustration
 ### All experiments allow fast typing and key combinations.
 
 #### Typing addresses
