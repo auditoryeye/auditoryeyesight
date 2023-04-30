@@ -20,7 +20,7 @@
 #### Typing real-world texts (with punctuation, numbers, capital letters, typos)
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/sequence1_text_a_7k01n2.gif)
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/sequence1_text_b_7k0201.gif)
-![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/Sequence11_text_7k032c.gif)
 <img src="https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jnhco.gif" width="100" height="177"/>
 
 ## Long distance keystroke localization results
