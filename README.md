@@ -3,10 +3,6 @@
 
 ## User Study 
 ### All experiments allow fast typing and key combinations.
-#### Typing real-world texts (with punctuation, numbers, capital letters, typos)
-![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
-![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
-<img src="https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jnhco.gif" width="100" height="177"/>
 
 #### Typing addresses
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jko02.gif)
@@ -20,6 +16,11 @@
 
 #### Typing passwords
 ![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jpnlf_pass.gif)
+
+#### Typing real-world texts (with punctuation, numbers, capital letters, typos)
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jklw5.gif)
+![](https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jkn4y.gif)
+<img src="https://github.com/auditoryeye/auditoryeyesight/blob/main/UserTyping/7jnhco.gif" width="100" height="177"/>
 
 ## Long distance keystroke localization results
 
