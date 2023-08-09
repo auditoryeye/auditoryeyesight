@@ -37,6 +37,7 @@ After [downloading](https://github.com/auditoryeye/auditoryeye_artifact#download
 **[Experiment Section 4](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#section-4)**<br>
 **[Experiment User Study](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#user-study)**<br>
 **[Experiment Additional Test Case](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#additional-test-cases)**<br>
+**[User Typing Illustration](https://github.com/auditoryeye/auditoryeyesight#user-study-illustration)**<br>
 
 
 The results of each of the steps are illustrated. Users can try to introduce additional signal processing and feature extraction (such as FFT, MFCC) in the future to improve the results. The data and code can be accessed from the following links:
